@@ -39,10 +39,13 @@ The Document Object Model or DOM is works by creating a DOM tree from a XML file
 
 Stream Parsers are event driven parsers. They don't store the XML file as it reads it instead will trigger events when it reaches a tag or end of a tag. Streaming parsers are not Read/Write like DOMs so cant be used to edit existing data. Other limitations of Stream parsers is that they are linear unlike DOMs which allow for backwards traversal of nodes, stream parsers dont have this feature.
 
-DOM parsers offer more functionality and usability the stream parsers. This might lead one to think that DOMs are just better then Stream persers wh
+DOM parsers offer more functionality and usability the stream parsers. This might lead one to think that DOMs are just better then Stream persers however there are drawbacks to DOMs as large file will use up lots of memory and can be intensive on the system. there are also plenty of times when you will not need the full functionality of the DOM and stream persers will be enough will also free up the system resources.
+
+In conclusion, the context of the implementation will be the primary deciding factor in which parser would be best suited for the poject if the project only needs to read a file then use a stream parser. If you need the functionality of a DOM then use a DOM parser. 
 
 
 ## Charts
+
 
 **Scatterchart**
 
