@@ -32,7 +32,7 @@ Advanced Topics in Web Development 2
 ---
 **HTML file:**
   * [index.html](https://github.com/SamScott2/atiwd2/blob/master/public_html/index.html)
-  * (CEMS)[index.html](http://www.cems.uwe.ac.uk/~s34-scott/atiwd2/public_html/index.html)
+  * (CEMS)[index.html](http://www.cems.uwe.ac.uk/~s34-scott/index.html)
 ---
 ## XML parsers: DOM vs Stream
 The Document Object Model or DOM is works by creating a DOM tree from a XML file in its entirety, that is to say the whole XML file is loaded as a tree structure into the progect this makes reading and writing data very quick. DOMs are Read/Write so the user is able to edit, insert, or delete nodes. the main draw back to DOMs are they eat up lots of memeory for large files.
