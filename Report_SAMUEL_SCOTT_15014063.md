@@ -46,8 +46,8 @@ In conclusion, the context of the implementation will be the primary deciding fa
 
 ## Charts and Refactoring
 
-for both the scatterchart and linechart I used a textfield for the date and time inputs, I did this as it allow me to test a wide range of inputs and it gave me flexability and control. a weakness of this method would be that its not very pleasent to enter values in such a manner aswell as makes it more confusing as well as increases the chance of make errors when providing parameters. If I were to do this again I might use HTML5 date and time selecters to immprove easability and try to filter out inputs that don't correspond to meaningful data.
+for both the scatterchart and linechart I used a textfield for the date and time inputs, I did this as it allow me to test a wide range of inputs and it gave me flexability and control. a weakness of this method would be that its not very pleasent to enter values in such a manner aswell as makes it more confusing as well as increases the chance of make errors when providing parameters. I also used a drop down menu for selecting stations which I think works well and save time have all the station easily accessable. If I were to do this again I might use HTML5 date and time selecters to immprove easability and try to filter out inputs that don't correspond to meaningful data.
 
-
+on the topic of the charts an Improvement on visability might be to add extra data like a trend line to show the overall direction that the data is taking so user can see at a glance. 
 
 
