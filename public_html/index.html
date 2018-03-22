@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HELP ME! I'M BURNING</title>
+        <link rel="stylesheet" href="css/newcss.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script type="text/javascript" src = "js/loadXMLForScatter.js"></script>
+        <script type="text/javascript" src = "https://www.gstatic.com/charts/loader.js"></script>
+
+    </head>
+    <body>
+        <form>
+            time (hh:mm:ss):<br>
+            <input type="text" id="time" value="13:15:00"><br>
+            date (dd/mm/yyyy):<br>
+            <input type="text" id="date" value="13/02/2016">
+        </form>
+
+        <select id = "ddmenu">
+            <option value="wells_rd_" selected = "selected">Wells Rd</option>
+            <option value="rupert_st_">Rupert St</option>
+            <option value="parson_st_">Parson St</option>
+            <option value="newfoundland_way_">Newfoundland Way</option>
+            <option value="fishponds_">Fishponds</option>
+            <option value="brislington_">Brislington</option>
+        </select>
+
+        <button id = "scatter">scatterChart</button>
+        <button id = "line">lineChart</button>
+
+        <div id = "scatterchart"></div>
+        <div id = "linechart"></div>
+
+    </body>
+</html>
