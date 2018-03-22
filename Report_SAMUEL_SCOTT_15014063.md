@@ -2,7 +2,7 @@ Advanced Topics in Web Development 2
 =======
 ## Samuel Scott 15014063
 
-## php Files
+**php Files**
 
 1. php Script for extracting CSV data to create XML files:
   * [CSVToXML.php](https://github.com/SamScott2/atiwd2/blob/master/php/CSVToXML.php)
@@ -40,6 +40,6 @@ Advanced Topics in Web Development 2
 
 ## Charts
 
----Scatterchart---
+**Scatterchart**
 
----Linechart---
+**Linechart**
