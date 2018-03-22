@@ -13,7 +13,7 @@ Advanced Topics in Web Development 2
 1. XML files created from CSV:
   * [brislington.xml](https://github.com/SamScott2/atiwd2/blob/master/php/xml/brislington.xml) 
   * [fishponds.xml](https://github.com/SamScott2/atiwd2/blob/master/php/xml/fishponds.xml)	
-  * [newfoundland_way.xml](https://github.com/SamScott2/atiwd2/blob/master/php/xml/newfoundland_way)
+  * [newfoundland_way.xml](https://github.com/SamScott2/atiwd2/blob/master/php/xml/newfoundland_way.xml)
   * [parson_st.xml](https://github.com/SamScott2/atiwd2/blob/master/php/xml/parson_st.xml)
   * [rupert_st.xml](https://github.com/SamScott2/atiwd2/blob/master/php/xml/rupert_st.xml)
   * [wells_rd.xml](https://github.com/SamScott2/atiwd2/blob/master/php/xml/wells_rd.xml)
