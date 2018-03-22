@@ -50,3 +50,7 @@ In conclusion, the context of the implementation will be the primary deciding fa
 **Scatterchart**
 
 **Linechart**
+
+##Refactoring
+
+
