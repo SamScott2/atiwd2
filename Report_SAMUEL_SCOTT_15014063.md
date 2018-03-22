@@ -34,7 +34,12 @@ Advanced Topics in Web Development 2
   * [index.html](https://github.com/SamScott2/atiwd2/blob/master/public_html/index.html)
   * (CEMS)[index.html](http://www.cems.uwe.ac.uk/~s34-scott/atiwd2/public_html/index.html)
 ---
-## DOM Stuff
+## XML parsers: DOM vs Stream
+The Document Object Model or DOM is works by creating a DOM tree from a XML file in its entirety, that is to say the whole XML file is loaded as a tree structure into the progect this makes reading and writing data very quick. DOMs are Read/Write so the user is able to edit, insert, or delete nodes. the main draw back to DOMs are they eat up lots of memeory for large files.
+
+Stream Parsers are event driven parsers. They don't store the XML file as it reads it instead will trigger events when it reaches a tag or end of a tag. Streaming parsers are not Read/Write like DOMs so cant be used to edit existing data. Other limitations of Stream parsers is that they are linear unlike DOMs which allow for backwards traversal of nodes, stream parsers dont have this feature.
+
+DOM parsers offer more functionality and usability the stream parsers. This might lead one to think that DOMs are just better then Stream persers wh
 
 
 ## Charts
