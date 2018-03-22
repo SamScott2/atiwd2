@@ -31,6 +31,15 @@ Advanced Topics in Web Development 2
 ---
 ## HTML file:
 1. github link:
- * [index.html](https://github.com/SamScott2/atiwd2/blob/master/public_html/index.html)
+  * [index.html](https://github.com/SamScott2/atiwd2/blob/master/public_html/index.html)
 2. CEMS Link:
- * [index.html](http://www.cems.uwe.ac.uk/~s34-scott/atiwd2/public_html/index.html)
+  * [index.html](http://www.cems.uwe.ac.uk/~s34-scott/atiwd2/public_html/index.html)
+---
+## DOM Stuff
+
+
+## Charts
+
+---Scatterchart---
+
+---Linechart---
